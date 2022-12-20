@@ -6,7 +6,6 @@
 * [Status do Projeto](#status-do-Projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Contribuidoras](#pessoas-contribuidoras)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 * [Licença](#licença)
 
@@ -38,7 +37,7 @@
   - ``Hibernate``
   - ``PostgreSQL``
   
-  # Autores
+  # Pessoas Desenvolvedoras do Projeto
 
   | [<img src="https://avatars.githubusercontent.com/u/92891137?s=400&u=7fb658f5663ef26960d2c214c847153730d3b590&v=4" width=115><br><sub>Willhan M. Kreuz</sub>](https://github.com/wmkreuz)
   | :---: |
