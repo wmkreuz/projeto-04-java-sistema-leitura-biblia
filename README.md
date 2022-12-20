@@ -9,7 +9,6 @@
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 * [Licença](#licença)
-* [Conclusão](#conclusão)
 
   # Projeto: Sistema de leitura da bíblia ![Ícone bíblia](https://github.com/wmkreuz/projeto-04-java-sistema-leitura-biblia/blob/main/src/main/java/br/com/empresa/projsenac/view/img/biblia.png)
 
